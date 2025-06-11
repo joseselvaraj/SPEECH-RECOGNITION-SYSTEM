@@ -76,10 +76,10 @@ Warm regards,
 JOSIAH SELVARAJ D,
 Karunya University.
 
-#PROGRAM
+# PROGRAM
 
 ![Image](https://github.com/user-attachments/assets/bf2a63b5-8b58-4630-812d-df7bee26c8a2)
 
-#OUTPUT
+# OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/f2a6bfbd-1f3a-4a8c-9ede-f6c23976ac4a)
