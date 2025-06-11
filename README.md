@@ -82,4 +82,4 @@ Karunya University.
 
 #OUTPUT
 
-![Image](https://github.com/user-attachments/assets/bf2a63b5-8b58-4630-812d-df7bee26c8a2)
+
