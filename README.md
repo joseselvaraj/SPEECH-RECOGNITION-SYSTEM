@@ -13,9 +13,9 @@
 *MENTOR* : NEELA SANTHOSH
 
 
-Task Title: Speech Recognition System
+# Task Title: Speech Recognition System
 
-Task Summary:
+# Task Summary:
 
 As per the instructions, I have developed a Python-based Speech Recognition System to convert speech into text in real time or from audio files.
 
