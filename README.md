@@ -1,43 +1,77 @@
-# 🎤 Speech to Text Project
+# TEXT-SUMMARIZATION-TOOL
 
-This is a basic speech-to-text converter using Python. It transcribes speech from `.wav` audio files into text using the `speech_recognition` library.
+*COMPANY* : CODTECH IT SOLUTIONS
 
-## 📁 Folder Structure
+*NAME* : JOSIAH SELVARAJ D
 
-speech_to_text/
-├── main.py # Python script for speech recognition
-├── audio.wav # Input audio file
-├── output.txt # Generated transcript (created after run)
-├── README.md # Project description and instructions
+*INTERN ID* : CT04DG1099
 
-## ▶️ How to Run
+*DOMAIN* : ARTIFICIAL INTELLIGENCE
 
-1. Make sure `audio.wav` is in the folder.
-2. Open terminal in this folder.
-3. Run the script:
-   ```bash
-   python main.py
+*DURATION* : 4 WEEKS
 
-### ✅ STEP 4: Add Requirements (Optional)
+*MENTOR* : NEELA SANTHOSH
 
-Create a `requirements.txt` (if you haven't):
 
-```txt
-speechrecognition
+Task Title: Speech Recognition System
 
-## 🧰 Requirements
+Task Summary:
 
-Install dependencies using:
+As per the instructions, I have developed a Python-based Speech Recognition System to convert speech into text in real time or from audio files.
 
-```bash
-pip install -r requirements.txt
+Files Included:
 
-### ✅ STEP 5: Add Optional Enhancements Section
+main.py:
+This is the main Python script which:
 
-```markdown
-## 🚀 Future Improvements
+Listens for speech from the microphone or reads from an audio file
 
-- Add microphone input support
-- Use Wav2Vec2 for offline transcription
-- Add a GUI with Tkinter or PyQt
-- Support other audio formats (MP3, FLAC)
+Converts the spoken content to text using the speech_recognition library
+
+Saves the transcribed text to an output file
+
+audio.wav
+
+An example audio file used for testing the transcription system.
+
+output.txt
+
+The generated output file which contains:
+
+Transcribed Text from the provided audio input
+
+Tools & Technologies Used:
+
+Language: Python
+
+Libraries:
+
+speech_recognition
+
+pyaudio (for live microphone input)
+
+wave (for reading .wav files)
+
+Features:
+
+Converts speech to text from:
+
+Microphone input
+
+Pre-recorded audio files (WAV format, PCM encoding)
+
+Saves transcription to a .txt file automatically
+
+User-friendly console interface
+
+Notes:
+
+Audio files must be in PCM WAV format for compatibility with the speech_recognition library.
+
+Online tools like Online Audio Converter can be used to convert audio formats correctly.
+
+Thank you for the opportunity!
+
+Warm regards,
+JOSIAH SELVARAJ D,
+Karunya University.
